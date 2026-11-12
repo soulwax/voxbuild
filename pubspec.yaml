@@ -1,0 +1,11 @@
+name: voxbuild
+description: "Pure Dart modular snap-grid construction solver, typed architectural sockets, rotated SAT OBB overlap clearance, and serializable multi-piece construction blueprints."
+version: 0.1.0
+repository: https://github.com/soulwax/voxbuild
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
